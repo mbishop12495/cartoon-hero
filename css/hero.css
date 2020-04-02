@@ -1,0 +1,83 @@
+body{
+  margin: 0;
+  font-family: 'Sen', sans-serif;
+  font-size: 15px;
+}
+header{
+  background-color: #D54728;
+  text-align: center;
+  padding-top: 50px;
+  padding-top: 50px;
+}
+h1 h2{
+  font-family: "Sen", sans-serif;
+  font-weight: 800;
+}
+
+ p {
+   font-family: "Sen", sans-serif;
+   font-weight: 400;
+ }
+
+ ol {
+   font-family: "Sen", sans-serif;
+   font-weight: 400;
+ }
+
+ ul {
+   font-family: "Sen", sans-serif;
+   font-weight: 400;
+ }
+
+header h1{
+  color: white;
+  font-size: 50px
+
+}
+
+header img{
+  border-radius: 50%;
+  width: 200px;
+  border: 5px solid #D59E28;
+}
+
+main{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0px 20px 20px;
+}
+
+main img {
+  max-width: 100%;
+}
+
+h2{
+  font-size: 20px;
+  color: #D59E28;
+  margin: 40px 0px 10px;
+}
+
+a{
+  color: #D59E28;
+}
+
+a:hover{
+  color: #D54728;
+}
+
+footer{
+  background-color: #D54728;
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+footer p{
+  margin: 0;
+}
+
+p.caption{
+  color: #D54728;
+  text-align: center;
+  font-style: italic;
+}
